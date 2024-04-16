@@ -60,8 +60,7 @@ h2 {
 
 .cuadro:hover {
     background-color: #5c529a;
-    
-        transform: translateY(-5px); 
+    transform: translateY(-5px); 
 }
 
 
